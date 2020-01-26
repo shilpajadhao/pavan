@@ -25,4 +25,4 @@ s3=set([1,2,3,4],[12,34,56])
 print(s3)
 """"
 
-
+"take this notes for sets"
